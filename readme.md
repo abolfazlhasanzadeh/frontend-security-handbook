@@ -19,26 +19,26 @@ This chapter covers the essential concepts every frontend developer needs to und
 
 ### Sections
 
-| Section | Topic | Time |
-|---------|-------|------|
-| 1-1 | Understanding the Origin Concept | 2 min |
-| 1-2 | Deep Dive into Origin | 8 min |
-| 1-3 | Storage Mechanisms in Origin | 12 min |
-| 1-4 | What is Broadcast Channel? | 6 min |
-| 1-5 | Cookie Management in Origin | 10 min |
-| 1-6 | What is Hash? | 4 min |
-| 1-7 | Hash Lookup Concept | 9 min |
-| 1-8 | Hash vs. Encoding | 7 min |
-| 1-9 | Secure Password Storage with Hashing | 12 min |
-| 1-10 | Rainbow Table Attack | 8 min |
-| 1-11 | What is Ciphertext? | 10 min |
-| 1-12 | Interpreted vs. Compiled | 8 min |
-| 1-13 | Stateless vs. Stateful | 6 min |
-| 1-14 | Login System with JWT | 12 min |
-| 1-15 | Deep Dive into Stateless Server | 17 min |
-| 1-16 | JWT vs. JWE | 8 min |
-| 1-17 | Deep Dive into Cookie | 14 min |
-| 1-18 | SameSite Cookie Attribute | 7 min |
+| Section | Topic |
+|---------|-------|
+| 1-1 | Understanding the Origin Concept |
+| 1-2 | Deep Dive into Origin |
+| 1-3 | Storage Mechanisms in Origin |
+| 1-4 | What is Broadcast Channel? |
+| 1-5 | Cookie Management in Origin |
+| 1-6 | What is Hash? |
+| 1-7 | Hash Lookup Concept |
+| 1-8 | Hash vs. Encoding |
+| 1-9 | Secure Password Storage with Hashing |
+| 1-10 | Rainbow Table Attack |
+| 1-11 | What is Ciphertext? |
+| 1-12 | Interpreted vs. Compiled |
+| 1-13 | Stateless vs. Stateful |
+| 1-14 | Login System with JWT |
+| 1-15 | Deep Dive into Stateless Server |
+| 1-16 | JWT vs. JWE |
+| 1-17 | Deep Dive into Cookie |
+| 1-18 | SameSite Cookie Attribute |
 
 ---
 
