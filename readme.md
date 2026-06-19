@@ -58,7 +58,7 @@ Stateless vs. stateful authentication, JWT structure and secure storage, cookie 
 
 ---
 
-[Read Chapter 1 →](./core-security-fundamentals.md)
+[Read Chapter 1 →](./Core-Security-Fundamentals.md)
 
 ---
 
